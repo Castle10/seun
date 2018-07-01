@@ -1,0 +1,50 @@
+<resources>
+    <!-- Title for the application.  -->
+    <string name="app_name">World Facts</string>
+
+    <!-- Header for the application.  -->
+    <string name="header">Take the test</string>
+
+    <!-- question 1 for the application.  -->
+    <string name="question_1">What is the capital of France?</string>
+
+    <!-- question 2 for the application.  -->
+    <string name="question_2">What two parts of the body continues to grow for your entire life?</string>
+
+    <!-- checkboxes for the application.  -->
+    <string name="checkbox_Nose">Nose</string>
+    <string name="checkbox_tongue">Tongue</string>
+    <string name="checkbox_ears">Ears</string>
+
+    <!-- question 3 for the application.  -->
+    <string name="question_3">What What is the capital of spain?</string>
+
+    <!-- radio buttons for the application.  -->
+    <string name="radio_Madrid">Madrid</string>
+    <string name="radio_Barcelona">Barcelona</string>
+    <string name="radio_catalona">catalona</string>
+
+    <!-- question 4 for the application.  -->
+    <string name="question4">Which Chess piece can only move diagonally?</string>
+
+    <!-- CheckBoxes for the application.  -->
+    <string name="answer_1">Rook</string>
+    <string name="answer_2">Bishop</string>
+    <string name="answer_3">Knight</string>
+
+    <!-- question 5 for the application.  -->
+    <string name="question5">WHo is the current president of Nigeria?</string>
+
+    <!-- radio buttons for the application.  -->
+    <string name="answer1">Mohammadu Buhari</string>
+    <string name="answer2">Goodluck Jonathan</string>
+    <string name="answer3">Olusegun Obasango</string>
+
+    <!-- Evaluate button for the application.  -->
+    <string name="evaluate_button">evaluate_button</string>
+
+    <!-- Reset button for the application.  -->
+    <string name="reset_button">reset_button</string>
+
+
+</resources>
